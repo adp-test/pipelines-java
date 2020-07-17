@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/tobiaswalke/learning-202007/_apis/build/status/adp-test.pipelines-java?branchName=master)](https://dev.azure.com/tobiaswalke/learning-202007/_build/latest?definitionId=9&branchName=master)
 
 # Contributing
 
